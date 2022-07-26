@@ -1,0 +1,19 @@
+/* google fonts cdn */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+/* Most useful Fonts */
+.neue-fonts {
+  font-family: "Bebas Neue", cursive;
+}
+.roboto-fonts {
+  font-family: "Roboto", sans-serif;
+}
+
+.menu-color {
+  color: #3c3c3c;
+}
+
+.btn-bacground {
+  background-color: #3d4ff3;
+}
