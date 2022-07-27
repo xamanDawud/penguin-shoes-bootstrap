@@ -17,3 +17,34 @@
 .btn-bacground {
   background-color: #3d4ff3;
 }
+
+.banner-background {
+  background-color: #fff9f4;
+}
+
+.title1-color {
+  color: #fa804c;
+}
+.title2-color {
+  color: #363958;
+}
+
+.banner-title {
+  font-size: 80px;
+}
+
+.btn-cart {
+  width: 170px;
+  height: 60px;
+}
+.btn-cart img {
+  width: 30px;
+}
+
+.card-img-bg {
+  background-color: #80808024;
+}
+
+.card-width {
+  width: 30%;
+}
